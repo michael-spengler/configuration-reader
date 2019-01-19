@@ -1,0 +1,32 @@
+{
+  "name": "configuration-reader",
+  "version": "1.0.0",
+  "description": "As simple as it gets",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "Configuration",
+    "Reader"
+  ],
+  "author": "Michael Spengler",
+  "license": "MIT",
+  "dependencies": {
+    "@types/dotenv": "^6.1.0",
+    "@types/jest": "^21.0.0",
+    "@types/node": "^10.12.18",
+    "dotenv": "^6.2.0",
+    "fs": "0.0.1-security",
+    "jest": "^23.6.0",
+    "path": "^0.12.7",
+    "ts-jest": "^23.10.5"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
